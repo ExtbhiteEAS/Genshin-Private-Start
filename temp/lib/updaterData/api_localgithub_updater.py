@@ -20,11 +20,11 @@ class UpdaterManifest:
             downloadUrl = "https://github.com/ExtbhiteEAS/Genshin-Private-Start/archive/refs/heads/main.zip"
             wget.download(downloadUrl)
             print("\n[INF] Downloaded zip file.")
-            #os.system("move Genshin-Private-Start-main.zip updater-build/")
-            #print("[INF] Moved zip file to build...")
-            #input("[INF] Confirm downloaded zip file to press [Enter] :: ")
-            #zip_file = zipfile.ZipFile("updater-build\Genshin-Private-Start-main.zip", "r")
-            #zip_file.extractall()
-            #zip_file.close()
+            os.system("move Genshin-Private-Start-main.zip updater-build/")
+            print("[INF] Moved zip file to build...")
+            input("[INF] Confirm downloaded zip file to press [Enter] :: ")
+            zip_file = zipfile.ZipFile("updater-build\Genshin-Private-Start-main.zip", "r")
+            zip_file.extractall()
+            zip_file.close()
         if self.updaterManifestPath == False:
             print("[WARN] I'm can't find build folder.")
