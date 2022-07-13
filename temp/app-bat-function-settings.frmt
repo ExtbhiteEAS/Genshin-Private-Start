@@ -1,0 +1,23 @@
+@rem ########################################################
+@rem THIS FILE IS TEMPORARY, AND THIS FORMAT FILE DOSEN'T SUPPORT
+@rem BAT COMMANDS! PLEASE, DO NOT MAKE MALWARE BY THIS IN FUTURE...
+@rem ########################################################
+@rem --------------------------------------------------------------
+@rem ########################################################
+@rem THIS FILE IS TEMPORARY, AND THIS FORMAT FILE DOSEN'T SUPPORT
+@rem BAT COMMANDS! PLEASE, DO NOT MAKE MALWARE BY THIS IN FUTURE...
+@rem ########################################################
+@rem --------------------------------------------------------------
+@rem ########################################################
+@rem THIS FILE IS TEMPORARY, AND THIS FORMAT FILE DOSEN'T SUPPORT
+@rem BAT COMMANDS! PLEASE, DO NOT MAKE MALWARE BY THIS IN FUTURE...
+@rem ########################################################
+@rem --------------------------------------------------------------
+@rem ########################################################
+@rem THIS FILE IS TEMPORARY, AND THIS FORMAT FILE DOSEN'T SUPPORT
+@rem BAT COMMANDS! PLEASE, DO NOT MAKE MALWARE BY THIS IN FUTURE...
+@rem ########################################################
+
+@echo off
+title Genshin Private Start / Settings
+python lib\app-system-console-settings.py
